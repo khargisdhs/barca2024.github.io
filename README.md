@@ -1,4 +1,4 @@
-Project Title: Discovering Barcelona - A Personal Journey
+<b>Project Title: Discovering Barcelona - A Personal Journey</b>
 
 Overview:
 You are tasked with creating a website that narrates your trip to Barcelona. This website will consist of four main pages, each serving a unique purpose in sharing your experiences, insights, and reflections. The aim is for you to not only showcase your journey but to hone your web design skills. 
